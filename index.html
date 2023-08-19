@@ -6,51 +6,43 @@
     body {
   font-family: Arial, sans-serif;
   line-height: 1.5;
-  margin: 2em;
-  
+  margin: 2em;  
 }
-
 h1 {
   font-size: 14pt;
   margin-bottom: 0.5em;
 }
-
 h2 {
   font-size: 12pt;
   margin-bottom: 0.5em;
 }
-
   img {
       display: block;
       margin: 0 auto;
     }
-
 p {
   margin-bottom: 1em;
   text-align: justify;
 }
-
 ul, ol {
   margin-left: 2em;
 }
-
 table {
   border-collapse: collapse;
   width: 100%;
 }
-
 th, td {
   border: 1px solid black;
   padding: 8px;
   text-align: left;
 }
-
 blockquote {
   margin: 1em 0;
   padding-left: 1em;
   border-left: 4px solid #ccc;
 }
   /* abnt-references.css */
+/* abnt-references.css */
 .references {
   margin-top: 1em;
 }
@@ -62,6 +54,11 @@ blockquote {
 
 .references p {
   margin-bottom: 0.5em;
+  display: inline;
+}
+
+.references .separator {
+  margin: 0 0.2em;
 }
 
 .references .author {
@@ -85,6 +82,7 @@ blockquote {
   color: blue;
   text-decoration: underline;
 }
+
 
   </style>
 </head>
@@ -157,9 +155,13 @@ Em relação a formatação, deve seguir o mesmo das instruções apresentadas a
 <div class="references">
     <h2>Referências Bibliográficas</h2>
     <p class="author">Sobrenome, Nome do Autor</p>
+    <span class="separator">,</span>
     <p class="title">Título do Livro ou Artigo</p>
+    <span class="separator">,</span>
     <p class="source">Nome da Fonte</p>
+    <span class="separator">,</span>
     <p class="year">Ano de Publicação</p>
+    <span class="separator">,</span>
     <p class="url"><a href="https://www.exemplo.com">https://www.exemplo.com</a></p>
   </div>
 </body>
