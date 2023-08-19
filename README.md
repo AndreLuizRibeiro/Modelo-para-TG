@@ -13,5 +13,22 @@ Nome do aluno
 </h3>
 
 
-agradecimento
-resumo
+# Agradecimento
+
+# Resumo
+
+# Indice
+
+# Introdução
+
+# Objetivos
+
+# Fundamentação teorica 
+
+# Desenvolvimento
+
+# Resultados
+
+# Conclusão
+
+# Referencias
