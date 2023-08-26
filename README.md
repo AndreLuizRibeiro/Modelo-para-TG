@@ -6,11 +6,11 @@
  </p>
 </p>
 
- **Título:** <h3> <p align="center"> *Colocar aqui o títlo do TG* </p>
+ **Título:** <h3> <p align="center"> *Colocar aqui o título do TG* </p>
 </h3>
 </p><br></br>
 
-**Nome do aluno:** <h3>  *Colocar aqui o nome do ator* 
+**Nome do aluno:** <h3>  *Colocar aqui o nome do autor* 
 </h3><br>
 
 **Orientador:** <h3>  *Colocar aqui o nome do orientador* 
@@ -19,7 +19,7 @@
 **Coorientador:** <h3>  *Colocar aqui o nome do coorientador* 
 </h3><br>
 
-# Agradecimentos
+# AGRADECIMENTOS
 
 <p align="justify">Colocar aqui os agradecimentos.</p>
 
@@ -98,10 +98,10 @@ Arrumar de acordo com a estrutura do seu projeto
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O objetivo deste trabalho é ...<br></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Como objetivos específicos elenca-se:
 
-  - 1.	item 1;
-  - 2.	item 2;
-  - 3.	item 3;
-  - 4.	item 4. </p>
+  - item 1;
+  - item 2;
+  - item 3;
+  - item 4. </p>
 
 ## 1.2 Conteúdo do Trabalho
 
