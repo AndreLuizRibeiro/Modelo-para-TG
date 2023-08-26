@@ -21,7 +21,7 @@
 
 # AGRADECIMENTOS
 
-<p align="justify">Colocar aqui os agradecimentos.</p>
+<p align="justify">Na página de agradecimentos o autor dirige palavras de reconhecimento àqueles que contribuíram para a elaboração do trabalho. O conteúdo não deve ultrapassar uma página e por isso, é necessário que ele seja sucinto e objetivo.</p>
 
 # RESUMO
 
@@ -36,45 +36,44 @@
 **Keywords:** Recomenda-se que o autor traduza para o inglês as Palavras-Chave em português e faça, se necessário, os ajustes referentes à conversão dos idiomas.
 
 # LISTA DE FIGURAS
- - Figura 1
- - Figura 2
- - Figura 3
- - Figura 4
- - Figura 5
- - Figura 6
- - Figura 7
- - Figura 8
- - Figura 9
+ - [Figura 1](#figura-1)
+ - [Figura 2](#figura-2)
+ - [Figura 3](#figura-3)
+ - [Figura 4](#figura-4)
+ - [Figura 5](#figura-5)
 
 # LISTA DE TABELAS
- - Tabela 1
- - Tabela 2
- - Tabela 3
- - Tabela 4
+ - [Tabela 1](#tabela-1)
+ - [Tabela 2](#tabela-2)
+ - [Tabela 3](#tabela-3)
+ - [Tabela 4](#tabela-4)
 
 # LISTA DE QUADROS
- - Quadro 1
- - Quadro 2
- - Quadro 3
+ - [Quadro 1](#quadro-1)
+ - [Quadro 2](#quadro-2)
+ - [Quadro 3](#quadro-3)
    
 # SUMÁRIO
 Arrumar de acordo com a estrutura do seu projeto
 
-[1. INTRODUÇÃO](#1-introdução)
+[1 INTRODUÇÃO](#1-introdução)
    - [1.1. Objetivo do Trabalho](#11-objetivo-do-trabalho)
    - [1.2. Conteúdo do Trabalho](#12-conteúdo-do-trabalho)
-  	
-[2.	FUNDAMENTAÇÃO TEÓRICA](#2-fundamentação-teórica)
-   - [2.1. Título da seção](#21-título-da-seção)
-   - [2.2. Título da seção](#22-título-da-seção)
-   - [2.3. Título da seção](#23-título-da-seção)
-    
-[3. MATERIAIS E MÉTODOS](#sumário)
-   - [3.1. Título da seção](#31-título-da-seção)  
 
-[4. RESULTADOS E DISCUSSÕES](#sumário)
+[2 FUNDAMENTAÇÃO TEÓRICA OU TÉCNICA](#2-fundamentação-teórica-ou-técnica)   
+   - [2.1 Título da seção](#21-título-da-seção)
+   - [2.2 Título da seção](#22-título-da-seção)
+   - [2.3 Título da seção](#23-título-da-seção)
+    
+[3 DESENVOLVIMENTO](#3-desenvolvimento)
+   - [3.1 Título da seção](#31-título-da-seção)  
+   - [3.2 Título da seção](#32-título-da-seção)
+     
+[4 RESULTADOS E DISCUSSÕES](#4-resultados-e-discussões)
+   - [4.1 Título da seção](#41-título-da-seção)
+   - [4.2 Título da seção](#42-título-da-seção)
    
-[5. CONSIDERAÇÕES FINAIS](#5-considerações-finais)
+[5 CONSIDERAÇÕES FINAIS](#5-considerações-finais)
 
 [REFERÊNCIAS](#referências)
 
@@ -83,16 +82,17 @@ Arrumar de acordo com a estrutura do seu projeto
 
 # 1 INTRODUÇÃO
 
- <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Colocar aqui a introdução do TG<br></br>
+ <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A introdução deve conter uma breve revisão sobre o tema do trabalho de graduação,  problematização, relevância, proposta metodológica e objetivos.<br></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cada parágrafo deve estar em uma linha diferente.<br></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para isso é preciso usar a tag '< br >< /br >' tudo junto sem espaço.<br></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O início de cada parágrafo teve ter um recuo de 1,25 e para isso deve se cocar 5 vezes '& n b s p' seguido de um ';', tudo junto e sem espaço.</p> 
 
+<a name="figura-1"></a>
 <p align="center">Figura 1. Título da figura</p> 
  <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/TG/blob/main/imagem/alinhamento.png" width="100%"> 
  </p>
-<p align="center">Fonte: Fonte da figura</p> 
+<p align="justify">Fonte: Fonte da figura</p> 
 
 ## 1.1 Objetivo do Trabalho
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O objetivo deste trabalho é ...<br></br>
@@ -113,43 +113,43 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 -	Capítulo 4 
 -	Capítulo 5 
 
-# 2 FUNDAMENTAÇÃO TEÓRICA/TÉCNICA
- <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neste capítulo serão revistos textos que subsidiem os conhecimentos necessários ao entendimento deste trabalho de graduação.</p>
+# 2 FUNDAMENTAÇÃO TEÓRICA OU TÉCNICA
+ <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neste capítulo serão revistos textos que subsidiem os conhecimentos necessários ao entendimento do trabalho apresentado. Será realizada pesquisa na literatura específica envolvendo manuais técnicos, catálogos de fabricantes, base de patentes, livros texto, revistas técnicas, etc... 
+O título do capítulo 2 deve ser FUNDAMENTAÇÃO TEÓRICA, porém os subtítulos fica a critério do(s) autor(es).</p>
 
 ## 2.1 Título da seção
-
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.</p> 
+ 
 ## 2.2 Título da seção
-
- <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.<br></br>
-</p> 
+ <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.</p> 
 
 ## 2.3 Título da seção
-
- <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.<br></br>
-</p> 
-
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Você pode adicionar quantas imagens forem necessarias em qualquer seção.<br></br>
-</p> 
+ <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.</p> 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Você pode adicionar quantas imagens forem necessarias em qualquer seção.</p> 
 
 # 3 DESENVOLVIMENTO
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neste capítulo deve ser abordado a metodologia e o enfoque experimental utilizados no trabalho. O título DESENVOLVIMENTO é apenas uma sugestão, podendo ser modificado pelo(s) autor(es) de acordo com o trabalho que está sendo desenvolvido, com uma abordagem tecnológica ou científica.</p> 
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Descrever o desenvolvimento do TG.</p> 
+## 3.1 Título da seção
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.</p> 
 
-# 3.1 Título da seção
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.<br></br>
-</p> 
+## 3.2 Título da seção
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.</p> 
 
 # 4 RESULTADOS E DISCUSSÕES
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nessa seção você deverá demonstrar os resultados e as discussões geradas pelo trabalhoNesta fase será realizada uma análise crítica dos resultados obtidos, comparando com os esperados e os visualizados na Fundamentação Teórica.</p> 
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nessa seção você deverá demonstrar os resultados e as discussões geradas pelo trabalho.</p> 
+## 4.1 Título da seção
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.</p> 
+
+## 4.2 Título da seção
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.</p> 
 
 # 5 CONSIDERAÇÕES FINAIS
-
-<p align="justify">Colocar aqui as conclusões e considerações finais do trabalho.  </p> 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esta é a parte final do trabalho, referindo-se às hipóteses discutidas anteriormente. A conclusão é uma resposta para a problemática do tema proposto na introdução, com base nos resultados que o(s) autor(es) avaliou e interpretou.</p> 
 
 # REFERÊNCIAS
-Colocar aqui as referências usadas para a elaboração desse trabalho.
-**Sobrenome, Nome do Autor**; *Título do Livro ou Artigo*; Nome da Fonte; **Ano de Publicação**; [https://www.exemplo.com](https://www.exemplo.com)
+**Sobrenome, Nome do Autor**;*Título do Livro ou Artigo*;Nome da Fonte;**Ano de Publicação**;[https://www.exemplo.com](https://www.exemplo.com)
 
 # ANEXOS
 Se necesario colocar anexos aqui
