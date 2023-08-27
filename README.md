@@ -2,7 +2,7 @@
 
 <p align="justify">Trabalho de Graduação apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Gestão da Produção Industrial.
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/Modelo-para-TG/blob/main/download.jfif" >
+ <img src="https://github.com/AndreLuizRibeiro/Modelo-para-TG/blob/main/imagem/download.jfif" >
  </p>
 </p>
 
